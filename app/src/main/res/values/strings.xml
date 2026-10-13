@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crop Shield</string>
+    <string name="nav_home">Concept</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_enquiry">Enquiry</string>
+    <string name="nav_workspace">Workspace</string>
+    <string name="nav_faq">FAQ</string>
+    
+    <string name="hero_tagline">FIELD-FOCUSED INNOVATION</string>
+    <string name="hero_title">Give your crops a smarter shield.</string>
+    <string name="hero_desc">An acoustic crop-protection concept exploring how sound-based deterrence and practical electronics can help farmers respond to unwanted visitors in the field.</string>
+    
+    <string name="device_status_disconnected">Awaiting Connection</string>
+    <string name="device_status_connected">Hardware Connected</string>
+    <string name="trigger_test_pulse">Trigger Test Pulse</string>
+    <string name="submit_enquiry">Send Enquiry</string>
+    <string name="admin_panel_title">Enquiry Admin</string>
+</resources>

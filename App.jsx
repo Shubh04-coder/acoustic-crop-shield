@@ -5,7 +5,7 @@ import {
   LogIn, Menu, MessageCircle, Radio, ShieldCheck, Sprout, Upload, Wifi,
   X, Zap, LogOut, Send, UserRound, LayoutDashboard
 } from 'lucide-react';
-import { isSupabaseConfigured, supabase } from './lib/supabase';
+import { isSupabaseConfigured, supabase } from './supabase';
 
 const features = [
   { icon: AudioLines, title: 'Acoustic deterrence', text: 'A sound-based approach designed to discourage unwanted bird and animal visits around crops.' },

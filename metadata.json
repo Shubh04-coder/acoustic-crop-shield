@@ -1,0 +1,6 @@
+{
+  "name": "Crop Shield",
+  "description": "Acoustic crop protection system for deterrence, field monitoring, and prototype control",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
